@@ -1,3 +1,3 @@
 # clrrk
 
-The 2015(6) update for my personal website
+The 2015 update for my personal website
